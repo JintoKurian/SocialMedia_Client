@@ -1,0 +1,39 @@
+
+
+.commentInput{
+    width: 500px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--inputColor);;
+}
+
+.addcommentButton{
+    background-color: #1DA1F2;
+}
+.commentButton{
+    margin-left: 5px;
+}
+
+.commentUserImage{
+    width: 1.7rem;
+    height: 1.7rem;
+    border-radius: 50%;
+}
+
+.commentItem {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 10px; /* Spacing between items */
+  }
+  
+  .commentUserInfo {
+    display: flex;
+    align-items: center; /* Align items vertically */
+  }
+  .commentUserName {
+    font-weight: bold;
+  }
+  
+
+

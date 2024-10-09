@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.panel {
+    position: relative;
+    display: grid;
+    grid-template-columns: 18rem auto ;
+    gap: 1rem;
+    background-color:  #e9e9e9;
+}
+  
